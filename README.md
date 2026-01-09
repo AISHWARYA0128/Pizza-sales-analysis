@@ -65,7 +65,8 @@ powerbi-pizza-sales-analysis
 
 
 ### 🔹 Category Performance
-![Category Analysis Dashboard](Screenshots/category_analysis.png)
+<img width="670" height="356" alt="category analysis" src="https://github.com/user-attachments/assets/38c353ba-5b64-461f-b079-47b2c64790d2" />
+
 
 >
 ## 💼 Business Use Case

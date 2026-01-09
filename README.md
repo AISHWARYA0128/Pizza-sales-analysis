@@ -56,6 +56,15 @@ powerbi-pizza-sales-analysis
 │ ├── sales_trends.png
 │ └── category_analysis.png
 └── README.md
+
+## 📸 Dashboard Screenshots
+
+### 🔹 Sales Trends Analysis
+![Sales Trends Dashboard](Screenshots/sales_trends.png)
+
+### 🔹 Category Performance
+![Category Analysis Dashboard](Screenshots/category_analysis.png)
+
 >
 ## 💼 Business Use Case
 This dashboard can help restaurant owners and managers to:

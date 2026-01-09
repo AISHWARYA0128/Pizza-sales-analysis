@@ -60,7 +60,7 @@ powerbi-pizza-sales-analysis
 ## 📸 Dashboard Screenshots
 
 ### 🔹 Sales Trends Analysis
-![Sales Trends Dashboard](Screenshots/sales_trends.png)
+sales trend.png
 
 ### 🔹 Category Performance
 ![Category Analysis Dashboard](Screenshots/category_analysis.png)

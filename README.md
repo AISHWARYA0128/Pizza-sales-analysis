@@ -15,7 +15,7 @@ Along with Power BI, SQL was used to perform exploratory analysis and
 calculate KPIs such as total revenue, order trends, and top-performing pizzas.
 
 SQL queries used in this project are available here:
-
+https://docs.google.com/document/d/1tf-6ooYgK2XfATjFiMc70--x2BDLtMme/edit?usp=drive_link&ouid=114568062992577813446&rtpof=true&sd=true
 
 
 Key SQL analysis includes:
@@ -94,16 +94,6 @@ This dashboard can help restaurant owners and managers to:
 
 ---
 
-## 👤 Author
-**Aishwarya Gupta**  
-Aspiring Data Analyst 
 
----
-
-## 🔑 Keywords
-Power BI, Data Analysis, Sales Dashboard, Business Intelligence, DAX, Data Visualization, MIS Reporting
-
-
----
 
 
